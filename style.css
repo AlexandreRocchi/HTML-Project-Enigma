@@ -1,0 +1,68 @@
+body {
+    background-image: url(background.gif);
+    margin:0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+.Titre {
+    color: black;
+    font-family: 'Fruktur', cursive;
+    text-align: center;
+    font-size: 100px;
+}
+
+.EnigmaStyle {
+    color: black;
+    font-family: 'Fruktur', cursive;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.Lose {
+    color: red;
+    font-family: 'Fruktur', cursive;
+    text-align: center;
+}
+
+.Win {
+    color:green;
+    font-family: 'Fruktur', cursive;
+    text-align: center;
+}
+
+.Winning {
+    color:yellow;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 100px;
+}
+
+button {
+    display: block; 
+    color: violet;
+    background-color: black;
+    margin-left : auto;
+    margin-right: auto;
+
+}
+
+.flag {
+    display: block;
+    margin-left : auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.trophy {
+    display: block;
+    margin-left : auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+audio {
+    flex-direction: column-reverse;
+
+}
